@@ -54,12 +54,13 @@ class MainActivity : AppCompatActivity() {
 
         // Dữ liệu giả
         val emailList = listOf(
-            Email("Alice", "Meeting Reminder", "Don’t forget our meeting tomorrow", "10:45 AM"),
-            Email("Bob", "Your Invoice", "Invoice for your recent purchase", "9:15 AM"),
-            Email("Carol", "Discount Offer", "Get 50% off on your next purchase!", "Yesterday"),
-            Email("Dave", "Welcome to our service", "Thank you for signing up!", "Yesterday"),
-            Email("Eve", "New updates available", "Check out the latest updates", "2 days ago")
+            Email("Frank", "Project Status Update", "Here’s the latest on the project.", "11:30 AM"),
+            Email("Grace", "Your Subscription Renewal", "Your subscription renews next week.", "8:00 AM"),
+            Email("Hank", "Exclusive Webinar Invitation", "Join our upcoming webinar on AI trends!", "Yesterday"),
+            Email("Ivy", "Password Reset Request", "Click the link to reset your password.", "3 days ago"),
+            Email("Jake", "Holiday Sale!", "Enjoy up to 70% off on all items!", "Last week")
         )
+
 
         // Gán adapter và layout cho RecyclerView
         recyclerView.layoutManager = LinearLayoutManager(this)

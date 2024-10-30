@@ -19,7 +19,6 @@ class MainActivity : AppCompatActivity() {
     private lateinit var toSpinner: Spinner
     private var isEditText1Updating = false
     private var isEditText2Updating = false
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)

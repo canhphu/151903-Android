@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="listStudentFragment" type="id">liststudentfrag</item>
+    <item name="addStudentFragment" type="id">addstudentfrag</item>
+    <item name="editStudentFragment" type="id">editstudentfrag</item>
+</resources>

@@ -1,4 +1,4 @@
-package com.example.studentmanager
+package com.example.studentmanagement
 
 import org.junit.Test
 

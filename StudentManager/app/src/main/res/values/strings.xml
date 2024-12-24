@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">StudentManager</string>
+    <string name="add_new" />
+    <string name="student_name" />
+    <string name="student_id" />
+    <string name="cancel" />
+    <string name="save" />
+    <string name="update">Update Success</string>
+    <string name="remove_student_confirm">.</string>
+    <string name="remove">remove oke</string>
+    <string name="edit">Edit</string>
+    <string name="edit_information">edit_info\n</string>
+    <string name="remove_student">remove_student\n</string>
+</resources>
